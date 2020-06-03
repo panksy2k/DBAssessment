@@ -48,3 +48,8 @@ a specified price (e.g. 55.0). Don’t worry what units that is in.
 * Mockito
 * EasyMock
 * JMock
+
+### To Run / Test
+
+Please execute the unit test StockTradingLedgerTest in order to send messages to the state machine and then
+subsequently execute the trade/order -- depending on the strike rule.
